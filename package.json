@@ -1,0 +1,26 @@
+{
+  "name": "adventure-game-server",
+  "version": "1.0.0",
+  "description": "server for adventure-game API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therearedoors/adventure-game-server.git"
+  },
+  "keywords": [
+    "adventure",
+    "game",
+    "portfolio",
+    "project",
+    "express"
+  ],
+  "author": "Paul Smart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therearedoors/adventure-game-server/issues"
+  },
+  "homepage": "https://github.com/therearedoors/adventure-game-server#readme"
+}
