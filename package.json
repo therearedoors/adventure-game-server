@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/therearedoors/adventure-game-server/issues"
   },
-  "homepage": "https://github.com/therearedoors/adventure-game-server#readme"
+  "homepage": "https://github.com/therearedoors/adventure-game-server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
